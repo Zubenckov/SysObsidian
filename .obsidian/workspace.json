@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "d7336e7f1e94401b",
+    "type": "split",
+    "children": [
+      {
+        "id": "0bcb35eff2c7622d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f451534493128291",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ALT-Linux/Настройка сетевого моста ALT-Linux.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Настройка сетевого моста ALT-Linux"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2f583590a34e3775",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7cd9ced7946612e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c0c45a2e5fe3c13",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e426396772809bc3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e267da7dcacd81f5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "699e3438822cc8cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae4bb83aab989756",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9ba9cb643cf27e2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Untitled"
+            }
+          },
+          {
+            "id": "f54bc6e9dbd1f9f5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled"
+            }
+          },
+          {
+            "id": "47ec75a7f2ddbca1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "08373cef96ebdfbf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f451534493128291",
+  "lastOpenFiles": [
+    "ALT-Linux/OpenVSwitch.md",
+    "ALT-Linux/Основы ALT-Linux.md",
+    "ALT-Linux/Настройка сетевого моста ALT-Linux.md",
+    "Ansible.md",
+    "Как работать с Obsidian.md",
+    "Основное/Сервисы/Zabbix.md",
+    "Основное/Сервисы/WireGuard.md",
+    "Основное/Сервисы/NFS.md",
+    "Основное/Сервисы/Free Range Routing.md",
+    "Основное/Сервисы/firewalld.md",
+    "Основное/Сервисы/DHCP Eco x BIND.md",
+    "Основное/Сервисы/Ansible.md",
+    "Основное/Сервисы/Центр сертификации.md",
+    "Основное/Сервисы/DHCP-Server.md",
+    "Основное/Сервисы/Docker.md",
+    "Основное/Images/L3.png",
+    "Основное/Images/L1.png",
+    "Основное/Images/Pasted image 20250318141954.png",
+    "Основное/Практика/Практика 17.03.2025.md",
+    "Основное/Операционные системы/EcoRouter.md",
+    "Основное/Операционные системы/Eltex.md",
+    "Основное/Операционные системы/ALT Linux.md",
+    "Основное/Конкурсные задания/РосАтом.md",
+    "Основное/Задания/9 - Kubernetes в ОС - Альт.md",
+    "Основное/Задания/10 - Кластер высокой доступности Kubernetes в ОС - Альт.md",
+    "Cisco.md",
+    "EcoRouter.md",
+    "Eltex.md",
+    "Windows - Создание пользователей AD (автоматически).md",
+    "Основное/Images/Pasted image 20250319163336.png",
+    "Основное/Images/Pasted image 20250319163255.png",
+    "Основное/Images/Pasted image 20250319163158.png",
+    "Основное/Images/Pasted image 20250319134325.png",
+    "Основное/Сервисы",
+    "Основное/Задания",
+    "Основное/Практика",
+    "Основное/Конкурсные задания",
+    "Основное/Операционные системы",
+    "Основное/Images",
+    "Основное",
+    "Untitled",
+    "ALT-Linux"
+  ]
+}
